@@ -1,0 +1,20 @@
+I-Logix-RPY-Archive version 8.12.0 * 9738229
+
+- filesTable = { IRPYRawContainer 
+	- size = 13;
+	- value = "SystemModel.rpy" ""
+	"SystemModel_rpy\\Default.sbs" "Default"
+	"SystemModel_rpy\\DefaultComponent.cmp" "DefaultComponent"
+	"SystemModel_rpy\\SysClass1.cls" "SystemPack1::SysClass1"
+	"SystemModel_rpy\\SysClass2.cls" "SystemPack2::SysClass2"
+	"SystemModel_rpy\\SysClass3.cls" "SystemPack3::SysClass3"
+	"SystemModel_rpy\\SysClass4.cls" "SystemPack4::SysClass4"
+	"SystemModel_rpy\\SysClass5.cls" "SystemPack5::SysClass5"
+	"SystemModel_rpy\\SystemPack1.sbs" "SystemPack1"
+	"SystemModel_rpy\\SystemPack2.sbs" "SystemPack2"
+	"SystemModel_rpy\\SystemPack3.sbs" "SystemPack3"
+	"SystemModel_rpy\\SystemPack4.sbs" "SystemPack4"
+	"SystemModel_rpy\\SystemPack5.sbs" "SystemPack5"
+	
+}
+
